@@ -3,5 +3,9 @@
 
 > 欢迎来到Zeitgeist的世界 / Welcome to Zeitgeist‘s world
 
+[Enter](README.md)
 
-[滚动翻页 / Scroll page](#introduction)
+<!-- background image -->
+
+![](pics/coverpage.jpg)
+

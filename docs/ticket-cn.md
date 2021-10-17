@@ -15,7 +15,7 @@ https://tarot.zeitgeist.pm/
 
 第一期：**2021.10.12 1AM** 500 枚傻瓜集 NFT（已结束）
 
-第二期：**2021.10.19** 500 枚爱人集 NFT （时间未定，会提前 48 小时通知）
+第二期：**2021.10.19 9PM** 500 枚爱人集 NFT 
 
 第三期：**2021.10.26** 1000 枚正义集 NFT （时间未定，会提前 48 小时通知）
 
@@ -42,7 +42,7 @@ Gleam 网址：https://gleam.io/qzZTC/zeitgeist-beta-app-awareness-campaign
 需要注意的是，本次活动针对 Gleam 任务只开放了 50 枚，所以不是所有完成任务的用户都可以获得。
 
 ## 其他方式
-
+### Discord语音会议
 当然我们也存在别的方式可以获得 NFT，大家可以关注我们的 Discord 内的信息，目前我们计划在 Discord 中进行一次语音会议，大家可以通过点击爱心，如果爱心数量超过 100 ，将会在语音会议中送出一些 NFT 门票。
 
 ![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20211013121250937.png)
