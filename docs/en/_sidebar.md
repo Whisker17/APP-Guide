@@ -1,18 +1,18 @@
-- [Tickets](ticket-en.md)
-  - [How To Buy A Ticket](tarot-en.md)
-  - [Gleam Campaign](gleam-en.md)
-  - [Others](nftothers-en.md)
+- [Tickets](/en/ticket-en.md)
+  - [How To Buy A Ticket](/en/tarot-en.md)
+  - [Gleam Campaign](/en/gleam-en.md)
+  - [Others](/en/nftothers-en.md)
     - Discord Reward
     - Seer Reward
 - APP Guide
-  - [APP Introduction](app-en.md)
+  - [APP Introduction](/en/app-en.md)
     - Connect Wallet
     - Faucet
-  - [Market Introduction](market-en.md)
-  - [Make Your Bet](buy-en.md)
-  - [Redeem](redeem-en.md)
-  - [Create Markets](create-en.md)
-  - [Dispute](disputed-en.md)
-  - [Liquidity Introduction](liquidity-en.md)
+  - [Market Introduction](/en/market-en.md)
+  - [Make Your Bet](/en/buy-en.md)
+  - [Redeem](/en/redeem-en.md)
+  - [Create Markets](/en/create-en.md)
+  - [Dispute](/en/disputed-en.md)
+  - [Liquidity Introduction](/en/liquidity-en.md)
 
-- [FAQ](faq-en.md)
+- [FAQ](/en/faq-en.md)
