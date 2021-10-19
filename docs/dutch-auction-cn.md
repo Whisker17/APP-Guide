@@ -4,9 +4,9 @@
 
 本次 NFT 门票销售也将采取这种方案，目前的计划为：
 
-![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/zkswap.png)
+![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/zkswap (1).png)
 
-从开始拍卖计时，每隔一小时将进行一次调价，直到底价为止。
+从开始拍卖计时，每隔 30min 将进行一次调价，直到底价为止。
 
 **UPDATE**
-我们将进行人工调价，如果当前价格购买人数较少，将会提前进行调价
+我们将进行人工调价，如果五分钟之内没有人出价，将会直接进入下一个阶段。
