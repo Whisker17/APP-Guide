@@ -19,3 +19,7 @@
   点击红框处
 
   <img src="https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20211019133106371.png" style="zoom: 67%;" />
+
+- **如何转换地址？**
+
+  KSM 地址转换：https://polkadot.subscan.io/tools/ss58_transform

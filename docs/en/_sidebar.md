@@ -1,6 +1,18 @@
-- Tickets
-  - How to buy a ticket
-  - Gleam campaign
-  - Others
+- [Tickets](ticket-en.md)
+  - [How To Buy A Ticket](tarot-en.md)
+  - [Gleam Campaign](gleam-en.md)
+  - [Others](nftothers-en.md)
+    - Discord Reward
+    - Seer Reward
 - APP Guide
-  - 
+  - [APP Introduction](app-en.md)
+    - Connect Wallet
+    - Faucet
+  - [Market Introduction](market-en.md)
+  - [Make Your Bet](buy-en.md)
+  - [Redeem](redeem-en.md)
+  - [Create Markets](create-en.md)
+  - [Dispute](disputed-en.md)
+  - [Liquidity Introduction](liquidity-en.md)
+
+- [FAQ](faq-en.md)

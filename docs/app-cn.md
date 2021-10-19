@@ -3,7 +3,7 @@
 
 ## 连接钱包
 
-进入后点击 “Connect Your Wallet”，连接钱包，APP 会查看您的账户中是否存在 NFT。
+进入后点击 `Connect Your Wallet`，连接钱包，APP 会查看您的账户中是否存在 NFT。
 
 <img src="https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20211013121713360.png" style="zoom:50%;" />
 
@@ -29,13 +29,11 @@
 
 输入 `!drip ksm地址或Zeitgeist地址`，每日领取 ZBS 。
 
-KSM 地址转换：https://polkadot.subscan.io/tools/ss58_transform
-
 ### 选择合适的市场进行预测
 
 <img src="https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20211013125047263.png" style="zoom:67%;" />
 
-大家可以在现存的市场中选择自己感兴趣的主题进行预测，比如这里有一个主题为 “恒大是否会在11月1日前宣布破产” 的主题，大家根据自己的信息收集进行预测，选择 “Yes”（EGRBYES） 或者 “No”（EGRBNO）  进行购买，点击购买后，右侧会弹出交易信息：
+大家可以在现存的市场中选择自己感兴趣的主题进行预测，比如这里有一个主题为 “恒大是否会在11月1日前宣布破产” 的主题，大家根据自己的信息收集进行预测，选择 `Yes`（EGRBYES） 或者 `No`（EGRBNO）  进行购买，点击购买后，右侧会弹出交易信息：
 
 ![](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20211013125639292.png)
 
@@ -45,12 +43,12 @@ KSM 地址转换：https://polkadot.subscan.io/tools/ss58_transform
 
 ### 套利
 
-购买成功后，大家可以在 “My Account”-"My Portfolio" 中查看自己的头寸，大家也可以通过高抛低吸进行套利。
+购买成功后，大家可以在 `My Account`-`My Portfolio` 中查看自己的头寸，大家也可以通过高抛低吸进行套利。
 
 <img src="https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20211013130119647.png" style="zoom:67%;" />
 
 ### 查看流动性池
 
-在 “Liquidity Pools” 查看当前市场的流动性池的情况，了解目前市场的活跃程度
+在 `Liquidity Pools` 查看当前市场的流动性池的情况，了解目前市场的活跃程度
 
 <img src="https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/image-20211013130303230.png" style="zoom:67%;" />
