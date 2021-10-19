@@ -1,7 +1,9 @@
 - [门票](ticket-cn.md)
-  - 购买门票
-  - Gleam 活动
-  - 其他
+  - [购买门票](tarot-cn.md)
+  - [Gleam 活动](gleam-cn.md)
+  - [其他](nftothers-cn.md)
+    - Discord 语音会议
+    - Seer 大使赠送
 - APP 教程
   - [APP介绍](app-cn.md)
   - [市场介绍](market-cn.md)
