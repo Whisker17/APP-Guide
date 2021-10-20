@@ -40,6 +40,22 @@
           depth: 6,
           maxAge: 86400000, // expired time, 1 day
         },
+
+        share: {
+          reddit: true,
+          linkedin: true,
+          facebook: true,
+          twitter: true,
+          whatsapp: true,
+          telegram: true,
+        },
+
+        pagination: {
+          previousText: "Previous",
+          nextText: "Next",
+          crossChapter: true,
+          crossChapterText: true,
+        },
       };
     </script>
     <!-- Docsify v4 -->
@@ -71,5 +87,9 @@
     ></script>
 
     <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
+    <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
+
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   </body>
 </html>
