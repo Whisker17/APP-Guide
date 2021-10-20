@@ -1,5 +1,7 @@
 # Gleam 任务
 
+活动时间：2021.10.15 - 2021.10.25
+
 对于那些不愿意通过购买门票进入 APP 的用户，我们也采取了通过完成 Gleam 任务来赚取 NFT ，从而获得体验 APP 的资格。
 
 Gleam 网址：https://gleam.io/qzZTC/zeitgeist-beta-app-awareness-campaign
